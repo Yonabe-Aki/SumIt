@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c4b09aa80cdda40d7969db86d815acac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - create_blocks_script: {fileID: 1985053976680993892, guid: 49490fb155f9b4a6094a6d9f0bd227d3, type: 3}
+  - block_script: {fileID: 4622404729035135320, guid: 18ba4a1374d3a4782bedf2022d708817, type: 3}
+  - LineRenderPrefab: {instanceID: 0}
+  - beam: {instanceID: 0}
+  - beam2: {instanceID: 0}
+  - beam3: {instanceID: 0}
+  - beam4: {instanceID: 0}
+  - line: {instanceID: 0}
+  - line2: {instanceID: 0}
+  - line3: {instanceID: 0}
+  - line4: {instanceID: 0}
+  - block_prefab: {fileID: 167922842370927001, guid: 18ba4a1374d3a4782bedf2022d708817, type: 3}
+  - number_text_prefab: {fileID: 4548256100396346166, guid: d40af6f156e0f47d1b54f132a3b5948e, type: 3}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
